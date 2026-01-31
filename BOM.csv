@@ -1,0 +1,21 @@
+Category,Product Name,Description,Quantity,Unit Price (INR/USD),Source,Subtotal (INR),Link
+PCB,Gerber_Y3,"1.6mm Green, HASL (with lead) PCB Prototype",5,$2.10,JLCPCB,₹896.35*,https://jlcpcb.com/quote
+Active IC,RP2040 Microcontroller,"Raspberry Pi MCU - QFN-56 Package",5,₹89.33,Sharvi Electronics,₹446.65,https://sharvielectronics.com/product/rp2040-microcontroller-by-raspberry-pi-qfn-56-package/
+Active IC,W25Q16JVZPIQ,"Winbond 16Mbit SPI Flash - WSON-8 Package",5,₹78.00,Robu.in,₹390.00,https://robu.in/product/w25q16jvzpiq-winbond-electronics-16mbit-spi-133mhz-wson-85x6-nor-flash-rohs/
+Power IC,MCP1700T-3302E/TT,"3.3V 250mA LDO Regulator (SOT-23)",5,₹55.00,Robu.in,₹275.00,https://robu.in/product/mcp1700t-3302e-tt-3-3v-250ma-fixed-output-ldo-linear-voltage-regulator-3-pin-sot-23-microchip-technology/
+Passive,100nF (0.1uF) Capacitor,"0402 Package, 50V 10% (CC0402KRX7R9BB104)",45,₹1.55,Sharvi Electronics,₹69.75,https://sharvielectronics.com/product/100nf-0-1uf-50v-capacitor-10-tolerance-cc0402krx7r9bb104-0402-package/
+Passive,1uF (1000nF) Capacitor,"0402 Package, 50V 10% (CC0402KRX7R9BB105)",20,₹1.55,Sharvi Electronics,₹31.00,https://sharvielectronics.com/product/1uF-1000nf-50v-capacitor-10-tolerance-cc0402krx7r9bb105-0402-package/
+Passive,10uF Capacitor,"0402 Package, 50V 10% (04025C106KAT2A)",10,₹3.09,Sharvi Electronics,₹30.90,https://sharvielectronics.com/product/10uf-50v-capacitor-10-tolerance-04025c106kat2a-0402-package/
+Passive,33pF Capacitor,"0402 Package, 50V 5% (CC0402JRNPO9BN330)",20,₹0.87,Sharvi Electronics,₹17.40,https://sharvielectronics.com/product/33pf-50v-capacitor-5-tolerance-cc0402jrnpo9bn330-0402-package/
+Passive,27 Ohm Resistor,"0402 Package, 1% 1/16W (RC0402FR-0727RL)",20,₹0.78,Sharvi Electronics,₹15.60,https://sharvielectronics.com/product/27-ohm-1-16-watt-resistor-1-tolerance-rc0402fr-0727rl-0402-package/
+Passive,5.1K Ohm Resistor,"0402 Package, 1% 1/16W (RC0402FR-075K1L)",20,₹1.39,Sharvi Electronics,₹27.80,https://sharvielectronics.com/product/5-1k-ohm-1-16-watt-resistor-1-tolerance-rc0402fr-075k1l-0402-package/
+Passive,1K Ohm Resistor,"0402 Package, 1% 1/16W (0402WGF1001TCE)",20,₹0.81,Sharvi Electronics,₹16.20,https://sharvielectronics.com/product/1k-ohm-1-16-watt-resistor-1-tolerance-0402wgf1001tce-0402-package/
+Passive,10K Ohm Resistor,"0402 Package, 1% 1/16W (WR04X1002FTL)",20,₹0.81,Sharvi Electronics,₹16.20,https://sharvielectronics.com/product/10k-ohm-1-16-watt-resistor-1-tolerance-wr04x1002ftl-0402-package/
+Connectivity,USB Type C Connector,"16 Pin Female SMD Package",5,₹17.45,Sharvi Electronics,₹87.25,https://sharvielectronics.com/product/16-pin-c-type-usb-connector-smd-package/
+Connectivity,2.54mm Header Strip,"1x40 Pin Male Single Row SMT (Pack of 5)",5,₹16.00,Robu.in,₹80.00,https://robu.in/product/2-54mm-1x40-pin-male-single-row-smt-header-strip-pack-of-5/
+Crystal,12 Mhz Crystal,"YSX321SL 20PF 10PPM - 4Pin SMD",5,₹19.40,Sharvi Electronics,₹97.00,https://sharvielectronics.com/product/12-mhz-crystal-ysx321sl-20pf-10ppm-4pin-smd-package/
+Switch,TSA010A2018B-BZCN,"3mm Tactile Switch SMD",5,₹3.55,Robu.in,₹17.75,https://robu.in/product/tsa010a2018b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-12v-smd-tactile-switches-rohs/
+Tools,Soldering Iron Kit,"Pro-Range 7 in 1 Kit with 5 Tips",1,₹489.00,Robu.in,₹489.00,https://robu.in/product/pro-range-7-in-1-soldering-iron-kit-with-5-tips-set/
+Tools,YIHUA X-4 Holder,"Iron Holder with Brass Wool/Sponge",1,₹350.00,Robu.in,₹350.00,https://robu.in/product/yihua-x-4-premium-soldering-iron-holder-with-brass-wool-cleaning-sponge-and-solder-tip-slots/
+Tools,Silicone Working Mat,"Magnetic Heat Insulation Mat 36x26cm",1,₹735.00,Robu.in,₹735.00,https://robu.in/product/magnetic-heat-insulation-silicone-working-mat-3626cm/
+,,,TOTAL ESTIMATE,₹4154.65,,$45.66
