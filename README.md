@@ -14,7 +14,7 @@
     <li>2.54mm Breakout Headers</li>
     <li>Compact SMD Design</li>
 </ul>
-
+ <img src="https://github.com/user-attachments/assets/d69686d8-a1bf-4bce-9087-ded401f39412" alt="Devboard Render" />
 <hr>
 
 <h2>Bill of Materials (BOM)</h2>
@@ -214,7 +214,7 @@
 
 <h2>Design Gallery & Documentation</h2>
 <div class="image-gallery">
-    <img src="https://github.com/user-attachments/assets/d69686d8-a1bf-4bce-9087-ded401f39412" alt="Devboard Render" />
+   
     
    <img src="https://github.com/user-attachments/assets/802d1894-c57f-45f3-b99f-609b152303e8" alt="Board Schematic View" />
     <img src="https://github.com/user-attachments/assets/8fc96c75-4aee-4737-8dd9-7d2ba9697868" alt="PCB Layout Detail" />
